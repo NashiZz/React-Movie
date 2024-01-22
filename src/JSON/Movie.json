@@ -1,0 +1,224 @@
+[
+    {
+        "id": 1,
+        "name": "Loki",
+        "Rating": "8.2",
+        "roles": [
+            {
+                "role": "Action"
+            },
+            {
+                "role": "Fantasy"
+            },
+            {
+                "role": "Drama"
+            }
+        ],
+        "img": "https://m.media-amazon.com/images/M/MV5BNTY1ZDQzNzQtZGM1Yy00YjRhLTliYmMtOGM2OWFlYTRjOTc2XkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_FMjpg_UX1000_.jpg",
+        "video": "https://www.youtube.com/embed/R7YLSDULkoc?si=II3ixmV589hQRMo1",
+        "des": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+        "time": "TV Series • 2021 - 2023 • 9h 46m",
+        "stars": [
+            {
+                "star": "Tom Hiddleston"
+            },
+            {
+                "star": "Owen Wilson"
+            },
+            {
+                "star": "Sophia Di Martino"
+            }
+        ],
+        "writers": [
+            {
+                "writer": "Michael Waldron"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sweet Home",
+        "Rating": "7.3",
+        "roles": [
+            {
+                "role": "Horror"
+            },
+            {
+                "role": "Drama"
+            },
+            {
+                "role": "Fantasy"
+            }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/th/d/d2/Sweet_Home_2.png",
+        "video": "https://www.youtube.com/embed/_DGhLCF9knM?si=kG5Ud_S5zSxXTylu",
+        "des": "Hyun, a loner high school student who lost his entire family in a terrible accident, is forced to leave his home and has to face a new reality where monsters are trying to wipe out all of humanity. Now he must fight against all odds to try and race against the clock to save what is left of the human race before it's too late.",
+        "time": "TV Series • 2023 • 9h 46m",
+        "stars": [
+            {
+                "star": "Go Min-Si"
+            },
+            {
+                "star": "Song Kang"
+            },
+            {
+                "star": "Lee Si-young"
+            }
+        ],
+        "writers": [
+            {
+                "writer": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Napoleon",
+        "time": "2023 • R • 2h 38m",
+        "Rating": "6.6",
+        "video": "https://www.youtube.com/embed/S7oPzS-efK0?si=FgxwZUlaPa-ouJyW",
+        "roles": [
+            {
+                "role": "Action"
+            },
+            {
+                "role": "Advaeture"
+            },
+            {
+                "role": "Biography"
+            }
+        ],
+        "des": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+        "writers": [
+            {
+                "writer": "David Scarpa"
+            }
+        ],
+        "img": "https://m.media-amazon.com/images/M/MV5BZWIzNDAxMTktMDMzZS00ZjJmLTlhNjYtOGUxYmZlYzVmOGE4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "stars": [
+            {
+                "star": "Joaquin Phoenix"
+            },
+            {
+                "star": "Vanessa Kirby"
+            },
+            {
+                "star": "Tahar Rahim"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Wonka",
+        "time": "2023 • PG • 1h 56m",
+        "Rating": "7.3",
+        "video": "https://www.youtube.com/embed/f8HQ3OhOe-I?si=-V_dabgIAl5dv-qx",
+        "roles": [
+            {
+                "role": "Advaeture"
+            },
+            {
+                "role": "Comedy"
+            },
+            {
+                "role": "Family"
+            }
+        ],
+        "des": "With dreams of opening a shop in a city renowned for its chocolate, a young and poor Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers.",
+        "writers": [
+            {
+                "writer": "Simon Farnaby"
+            },
+            {
+                "writer": "Paul King"
+            },
+            {
+                "writer": "Roald Dahl"
+            }
+        ],
+        "img": "https://m.media-amazon.com/images/M/MV5BNDM4NTk0NjktZDJhMi00MmFmLTliMzEtN2RkZDY2OTNiMDgzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "stars": [
+            {
+                "star": "Timothée Chalamet"
+            },
+            {
+                "star": "Gustave Die"
+            },
+            {
+                "star": "Murray McArthur"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "SOLO LEVELING",
+        "time": "TV Series • 2024 • TV-MA",
+        "Rating": "8.5",
+        "video": "https://www.youtube.com/embed/HkIKAnwLZCw?si=Iyzs8wV6Cmobgkns",
+        "roles": [
+            {
+                "role": "Animetion"
+            },
+            {
+                "role": "Advaeture"
+            },
+            {
+                "role": "Action"
+            }
+        ],
+        "des": "In a world of gifted hunters and monsters, a weak hunter Sung Jinwoo gains extraordinary powers through a mysterious program, leading him to become one of the strongest hunters and conquering even the strongest dungeons.",
+        "writers": [
+            {
+                "writer": "Chugong"
+            }
+        ],
+        "img": "https://www.metalbridges.com/wp-content/uploads/2023/11/Solo-Leveling_EN-poster_cinema_CMYK_ver2_ol-Copy.png",
+        "stars": [
+            {
+                "star": "Taito Ban"
+            },
+            {
+                "star": "June Yoon"
+            },
+            {
+                "star": "Genta Nakamura"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Reacher",
+        "time": "TV Series 2022 • TV-MA 49m",
+        "Rating": "8.1",
+        "video": "https://www.youtube.com/embed/3ygMcbrZNOc?si=RSHtGA7F37e3bR6T",
+        "roles": [
+            {
+                "role": "Action"
+            },
+            {
+                "role": "Crime"
+            },
+            {
+                "role": "Drama"
+            }
+        ],
+        "des": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the books by Lee Child.",
+        "writers": [
+            {
+                "writer": "Nick Santora"
+            }
+        ],
+        "img": "https://m.media-amazon.com/images/M/MV5BOWRiZjYwZjUtYmIwMy00ZDUzLTk2NjktZmJkZjRkNjU0MDE3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "stars": [
+            {
+                "star": "Alan Ritchson"
+            },
+            {
+                "star": "Maria Sten"
+            },
+            {
+                "star": "Malcolm Goodwin"
+            }
+        ]
+    }
+]
